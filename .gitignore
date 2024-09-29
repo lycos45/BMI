@@ -1,0 +1,16 @@
+# Fichiers et répertoires Python à ignorer
+__pycache__/
+*.pyc
+
+# Environnement virtuel
+venv/
+venv
+
+# Fichiers spécifiques à l'IDE
+.vscode/
+*.log
+*.sqlite3
+.DS_Store
+
+# Fichiers spécifiques de Streamlit
+streamlit/
