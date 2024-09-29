@@ -4,7 +4,6 @@ __pycache__/
 
 # Environnement virtuel
 venv/
-venv
 
 # Fichiers spécifiques à l'IDE
 .vscode/
@@ -12,5 +11,9 @@ venv
 *.sqlite3
 .DS_Store
 
-# Fichiers spécifiques de Streamlit
+# Fichiers spécifiques à Streamlit
 streamlit/
+
+# Autres fichiers générés
+*.env
+*.idea/
